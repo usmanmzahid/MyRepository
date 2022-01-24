@@ -1,3 +1,3 @@
 # MyRepository
 
-This is my Usman's demo repo! AA
+Hi, My name is Usman and this is my demo repo.
